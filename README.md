@@ -1,6 +1,5 @@
 # Flask RESTful API 
 ###### (https://demoflaskeventserviceapi.herokuapp.com/member/)
-<img src="IMG.png" height=600px width=1200/>
 
 ### Business requirements:-
 
