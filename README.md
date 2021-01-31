@@ -1,6 +1,5 @@
 # Flask RESTful API 
 ###### (https://demoflaskcrudapp.herokuapp.com/member/)
-<img src="IMG.png" height=600px width=1200/>
 
 ### Business requirements:-
 
@@ -9,6 +8,7 @@
 2. Testing:- Postman
 3. Deployment- Heroku
 
+<img src="IMG.png" height=600px width=700/>
 #### 1. Ability to add event
 a. Should have a table called 'event'
 fields:
