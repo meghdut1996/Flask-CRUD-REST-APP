@@ -7,8 +7,8 @@
 1. Backend:- Flask, SQLlite & other modules
 2. Testing:- Postman
 3. Deployment- Heroku
+<img src="IMG.png" height=500px width=1200/>
 
-<img src="IMG.png" height=600px width=700/>
 #### 1. Ability to add event
 a. Should have a table called 'event'
 fields:
